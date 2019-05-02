@@ -1,4 +1,4 @@
 'use strict';
 
-let 'Hello world';
-alert('Hello world');
+let string = 'Hello world';
+alert(string);
